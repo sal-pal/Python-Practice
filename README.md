@@ -1,1 +1,1 @@
-Scripts I used to learn how to code.
+Scripts I developed for learning how to code.
